@@ -13,6 +13,7 @@ public class Interfaz {
 	/* metodo de prueba que pide un dato por JOptionPane y retorna el String correspondiente
 	 * Reemplazar por lo que se necesiten
 	 */
+	//hola ;V
 	
 	public String pedirDato() 
 	{
